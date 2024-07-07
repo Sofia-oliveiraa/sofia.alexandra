@@ -51,7 +51,7 @@ a{
 
 @font-face {
     font-family: 'Neue Montreal';
-    src: url('fonts/ABCOracle-Regular-Trial.otf');
+    src: url('fonts/PPNeueMontreal-Medium.otf');
 }
 
 
@@ -112,7 +112,7 @@ main{
     flex-wrap: wrap;
     justify-content: flex-end;
     margin-left: 1.5rem;
-    font-size: 3.3rem;
+    font-size: 4.5rem;
     line-height: 1.1;
     width: 95%;
 }
